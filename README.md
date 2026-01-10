@@ -1,9 +1,5 @@
 # 👩🏻‍💻 Maria Ita
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0A66C2&height=200&section=header&text=Maria%20Ita&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Dados%20%7C%20BI%20Developer&descSize=25&descAlignY=60" width="100%"/>
-</div>
-
 **Analista de Dados & Business Intelligence** Power BI • SQL • Python • JavaScript • Node.js • React • Automação de Dados  
 
 Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automação e visualização de dados para **suporte à tomada de decisão estratégica** em ambientes de alta criticidade.  
@@ -53,32 +49,6 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
   <br/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamcdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" />
 </div>
-
----
-
-## 💻 Projetos em Destaque
-
-### 💼 Automação de Recibos
-![Badge](https://img.shields.io/badge/Automação%20de%20Recibos-blue?style=for-the-badge&logo=google&logoColor=white)  
-**Descrição:** Automação de recibos e documentos em Excel.  
-**Tecnologias:** ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-F9AB00?style=for-the-badge&logo=google&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-🔗 [Ver projeto no GitHub](https://github.com/itamcdo/google-apps-script-receipt-automation)
-
----
-
-### 📊 Dashboards de BI
-![Badge](https://img.shields.io/badge/Dashboards%20de%20BI-orange?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)  
-**Descrição:** Dashboards interativos para análise e visualização de dados estratégicos.  
-**Tecnologias:** ![Power BI](https://img.shields.io/badge/Power%20BI-0078D4?style=for-the-badge&logo=microsoft-power-bi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql-server&logoColor=white)  
-🔗 [Ver projeto no GitHub](https://github.com/itamcdo/bi-dashboards)
-
----
-
-### 🤖 Automação de Processos
-![Badge](https://img.shields.io/badge/Automação%20de%20Processos-green?style=for-the-badge&logo=python&logoColor=white)  
-**Descrição:** Scripts de automação para tarefas repetitivas e processamento de dados.  
-**Tecnologias:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-F9AB00?style=for-the-badge&logo=google&logoColor=white)  
-🔗 [Ver projeto no GitHub](https://github.com/itamcdo/process-automation)
 
 ---
 
