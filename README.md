@@ -1,24 +1,28 @@
-<div align="center">
-
 # 👩🏻‍💻 Maria Ita
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0A66C2&height=200&section=header&text=Maria%20Ita&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Dados%20%7C%20BI%20Developer&descSize=25&descAlignY=60" width="100%"/>
+</div>
 
 **Analista de Dados & Business Intelligence** Power BI • SQL • Python • JavaScript • Node.js • React • Automação de Dados  
 
-Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automação e visualização de dados para **suporte à tomada de decisão estratégica** em ambientes de alta criticidade.
+Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automação e visualização de dados para **suporte à tomada de decisão estratégica** em ambientes de alta criticidade.  
 
 ---
 
 ## 🌐 Contato e Redes
 
-<a href="https://www.linkedin.com/in/itamacdo">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
-</a>
-<a href="https://github.com/itamcdo">
-    <img alt="GitHub Seguidores" title="GitHub" src="https://custom-icon-badges.demolab.com/github/followers/itamcdo?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/itamcdo?tab=repositories&sort=stargazers">
-    <img alt="Estrelas GitHub" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/itamcdo?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star"/>
-</a>
+<p align="left">
+    <a href="https://www.linkedin.com/in/itamacdo">
+        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/itamcdo">
+        <img alt="GitHub Seguidores" title="GitHub" src="https://custom-icon-badges.demolab.com/github/followers/itamcdo?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://github.com/itamcdo?tab=repositories&sort=stargazers">
+        <img alt="Estrelas GitHub" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/itamcdo?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star"/>
+    </a>
+</p>
 
 ---
 
@@ -44,8 +48,11 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
 
 ## 📊 Estatísticas GitHub
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamcdo&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamcdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamcdo&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" />
+  <br/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamcdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" />
+</div>
 
 ---
 
@@ -67,10 +74,20 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
 
 ---
 
+### 🤖 Automação de Processos
+![Badge](https://img.shields.io/badge/Automação%20de%20Processos-green?style=for-the-badge&logo=python&logoColor=white)  
+**Descrição:** Scripts de automação para tarefas repetitivas e processamento de dados.  
+**Tecnologias:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-F9AB00?style=for-the-badge&logo=google&logoColor=white)  
+🔗 [Ver projeto no GitHub](https://github.com/itamcdo/process-automation)
+
+---
+
 ## 🎓 Certificações
 
-Coleta e Extração de Dados com Power BI • SQL para Análise de Dados  
-Python para Data Analytics • Google Apps Script para Automação  
+- Coleta e Extração de Dados com Power BI  
+- SQL para Análise de Dados  
+- Python para Data Analytics  
+- Google Apps Script para Automação  
 
 📂 [Ver certificados completos](https://itamcdo.github.io/portfolio/certificates.html)
 
@@ -78,8 +95,6 @@ Python para Data Analytics • Google Apps Script para Automação
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamacdo) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamacdo)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itamcdo)  
 ✉️ **Email:** itammacedo20@gmail.com
-
-</div>
