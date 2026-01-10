@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Maria Ita
+# 👩🏻‍💻 Maria Ita Macêdo
 
 **Analista de Dados & Business Intelligence** Power BI • SQL • Python • JavaScript • Node.js • React • Automação de Dados  
 
