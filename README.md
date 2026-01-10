@@ -1,160 +1,83 @@
 # 👋 Maria Ita
 
-**`Analista de Dados & Business Intelligence`**
+**Analista de Dados & Business Intelligence**  
+Power BI • SQL • Python • JavaScript • Node.js • React • Automação de Dados  
 
-Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automação e visualização de dados para **suporte à tomada de decisão estratégica** em ambientes de alta criticidade. Sou apaixonada por tecnologia e compartilho meus projetos, aprendizado e experiências através do meu LinkedIn no perfil "[Maria Ita](https://www.linkedin.com/in/itamacdo)", onde mostro meus projetos de BI, automação e desenvolvimento, além de insights sobre dados e tecnologia.
+Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automação e visualização de dados para **suporte à tomada de decisão estratégica** em ambientes de alta criticidade.  
+
+---
+
+## 🌐 Contato e Redes
 
 <p align="left">
     <a href="https://www.linkedin.com/in/itamacdo">
-        <img 
-            alt="LinkedIn Seguidores"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/itamacdo">
-        <img 
-            alt="LinkedIn Views"
-            title="Visualizações no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
-        />
+        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="https://github.com/itamcdo">
-        <img 
-            alt="GitHub Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/itamcdo?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <img alt="GitHub Seguidores" title="GitHub" src="https://custom-icon-badges.demolab.com/github/followers/itamcdo?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://github.com/itamcdo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas GitHub" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/itamcdo?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=Estrelas"
-        />
+        <img alt="Estrelas GitHub" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/itamcdo?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star"/>
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠 Tecnologias
 
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Google Apps Script" 
-    title="Google Apps Script"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/000000/google-apps-script.png"
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg"
-/>
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-0078D4?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br/>
-<br/>
+### Desenvolvimento & Automação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-F9AB00?style=for-the-badge&logo=google&logoColor=white)
 
-### 📊 Estatísticas GitHub
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamcdo&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamcdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-  />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamcdo&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamcdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" />
 </p>
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
-### 💻 Projetos em Destaque
+## 💻 Projetos em Destaque
 
-1. [Automação de Recibos](https://github.com/itamcdo/google-apps-script-receipt-automation)  
-   **Tecnologias:** Google Apps Script, JavaScript, Excel  
+| Projeto | Tecnologias | Link |
+|--------|------------|------|
+| Automação de Recibos | Google Apps Script, JavaScript, Excel | [GitHub](https://github.com/itamcdo/google-apps-script-receipt-automation) |
+| Dashboards de BI | Power BI, SQL | [GitHub](https://github.com/itamcdo/bi-dashboards) |
+| Automação de Processos | Python, Google Apps Script | [GitHub](https://github.com/itamcdo/process-automation) |
 
-2. [Dashboards de BI](https://github.com/itamcdo/bi-dashboards) *(exemplo)*  
-   **Tecnologias:** Power BI, SQL  
-
-3. [Automação de Processos](https://github.com/itamcdo/process-automation) *(exemplo)*  
-   **Tecnologias:** Python, Google Apps Script  
-
-> *(Adicione mais projetos seguindo o mesmo padrão)*
+> *(Adicione novos projetos seguindo este padrão)*
 
 ---
 
-### 📫 Contato
+## 🎓 Certificações
+
+- Coleta e Extração de Dados com Power BI  
+- SQL para Análise de Dados  
+- Python para Data Analytics  
+- Google Apps Script para Automação  
+
+📂 [Ver certificados completos](https://itamcdo.github.io/portfolio/certificates.html)
+
+---
+
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamacdo)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itamcdo)  
