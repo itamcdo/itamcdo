@@ -53,6 +53,7 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
 <br/><br/>
 
 ---
+---
 
 ## 🎓 Certificações
 
