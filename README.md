@@ -53,19 +53,16 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
 <br/><br/>
 
 ---
----
-
-
 
 ## 🎓 Certificações
-
+<p>
 - Coleta e Extração de Dados com Power BI  
 - SQL para Análise de Dados  
 - Python para Data Analytics  
 - Google Apps Script para Automação  
 
 📂 [Ver certificados completos](https://itamcdo.github.io/portfolio/certificates.html)
-
+<p>
 ---
 
 ## 📫 Contato
