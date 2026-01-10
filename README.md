@@ -55,6 +55,8 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
 ---
 ---
 
+
+
 ## 🎓 Certificações
 
 - Coleta e Extração de Dados com Power BI  
