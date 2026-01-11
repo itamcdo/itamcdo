@@ -1,4 +1,17 @@
-# 👩🏻‍💻 Maria Ita Macêdo
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0d1117&text=Maria%20Ita%20Macedo&fontColor=79C0FF&fontSize=50" alt="Maria Ita Macedo Banner" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Analista%20de%20Dados%20%26%20BI-002147?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Saúde%20%26%20Nutrição-003B80?style=for-the-badge&logo=healthdotos&logoColor=white" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Nutrição+%2B+Dados;Insights+Estratégicos;Foco+em+Saúde+e+BI" alt="Typing SVG" />
+
+</div>
 
 **Analista de Dados & Business Intelligence** Power BI • SQL • Python • JavaScript • Node.js • React • Automação de Dados  
 
