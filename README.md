@@ -1,41 +1,39 @@
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&pause=1000&color=3385FF&center=true&vCenter=true&width=500&lines=MARIA+ITA+MACÊDO" alt="Maria Ita Macêdo" />
-  
+  <h1> Maria Ita Macêdo </h1>
   <p align="center">
-    <strong>Data Analyst & BI | Nutritionist in Training | Health Tech Enthusiast</strong>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3385FF&center=true&vCenter=true&width=500&lines=Analista+de+Dados+%26+BI;Command+Center+Hospitalar;Health+Tech+Enthusiast;Nutrição+em+formação" alt="Typing SVG" />
   </p>
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400px">
 </div>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Health_Analytics-0052CC?style=for-the-badge&logo=google-health&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech-Data_Automation-002147?style=for-the-badge&logo=automation&logoColor=white" />
+</p>
 
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-      <p align="center">
-        <img src="https://img.shields.io/badge/FOCUS-HEALTH%20ANALYTICS-0052CC?style=for-the-badge&logo=google-health&logoColor=white" />
-        <img src="https://img.shields.io/badge/STRATEGY-DATA%20DRIVEN-003B80?style=for-the-badge&logo=target&logoColor=white" />
-      </p>
-      <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #8b949e; line-height: 1.6;">
-        "Transformando dados complexos de saúde em decisões estratégicas. <br> 
-        A união da <b>ciência da nutrição</b> com a <b>precisão da análise de dados</b>."
-      </p>
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+### 🏥 Atuação Profissional
+Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automação e visualização de dados para suporte à tomada de decisão estratégica em ambientes de alta criticidade.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SQL-0052CC?style=flat-square&logo=postgresql&logoColor=white" />
+> **O Diferencial:** Unir a sensibilidade da **ciência da nutrição** com a precisão da **análise de dados** para gerar insights em contextos críticos de saúde.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+<div align="left">
   <img src="https://img.shields.io/badge/Power_BI-002147?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0052CC?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodesdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </div>
 
 <br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=002147&text=%20" width="100%"/>
+</p>
 
 **Analista de Dados & Business Intelligence** Power BI • SQL • Python • JavaScript • Node.js • React • Automação de Dados  
 
