@@ -1,17 +1,41 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0d1117&text=Maria%20Ita%20Macedo&fontColor=79C0FF&fontSize=50" alt="Maria Ita Macedo Banner" />
-
   <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&pause=1000&color=3385FF&center=true&vCenter=true&width=500&lines=MARIA+ITA+MACÊDO" alt="Maria Ita Macêdo" />
+  
+  <p align="center">
+    <strong>Data Analyst & BI | Nutritionist in Training | Health Tech Enthusiast</strong>
+  </p>
 
-  <img src="https://img.shields.io/badge/Analista%20de%20Dados%20%26%20BI-002147?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Saúde%20%26%20Nutrição-003B80?style=for-the-badge&logo=healthdotos&logoColor=white" />
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Nutrição+%2B+Dados;Insights+Estratégicos;Foco+em+Saúde+e+BI" alt="Typing SVG" />
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400px">
 </div>
+
+<br>
+
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/FOCUS-HEALTH%20ANALYTICS-0052CC?style=for-the-badge&logo=google-health&logoColor=white" />
+        <img src="https://img.shields.io/badge/STRATEGY-DATA%20DRIVEN-003B80?style=for-the-badge&logo=target&logoColor=white" />
+      </p>
+      <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #8b949e; line-height: 1.6;">
+        "Transformando dados complexos de saúde em decisões estratégicas. <br> 
+        A união da <b>ciência da nutrição</b> com a <b>precisão da análise de dados</b>."
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-0052CC?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-002147?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</div>
+
+<br>
 
 **Analista de Dados & Business Intelligence** Power BI • SQL • Python • JavaScript • Node.js • React • Automação de Dados  
 
