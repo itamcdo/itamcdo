@@ -1,38 +1,18 @@
-<div align="center" style="background-color: #001529; padding: 35px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=170&lines=MARIA+ITA+MAC%C3%AADO;DATA+ANALYST+%26+BI;COMMAND+CENTER+HOSPITALAR" alt="Maria Ita Macedo" />
+</p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=45&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Maria+Ita+Mac%C3%AAdo" alt="Maria Ita Macêdo Animado" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/HEALTH-ANALYTICS-0052CC?style=for-the-badge&logo=google-health&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUTRIÇÃO-DATA_DRIVEN-002147?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=📊+Analista+de+Dados+%26+BI;🏥+Command+Center+Hospitalar;🍎+Nutrição+em+formação+%7C+Saúde+Digital;💡+Insights+para+decisões+críticas" />
-  </p>
-
-  <p align="center">
-      <img src="https://img.shields.io/badge/FOCUS-HEALTH_ANALYTICS-004080?style=for-the-badge&logo=google-health&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CONTEXTO-ALTA_CRITICIDADE-990000?style=for-the-badge&logo=statuspage&logoColor=white"/>
-  </p>
-
-</div>
-<br>
-
-### <img src="https://media.giphy.com/media/QssGEmpj35j2M0Vl8q/giphy.gif" width="25px"> Resumo Profissional
-
-> Analista de Dados & BI atuando no **Command Center Hospitalar**. Combino a formação em **Nutrição** com expertise técnica para transformar dados em insights que apoiam decisões estratégicas em ambientes de alta criticidade.
-
-<div align="left">
-  <br>
-  <img src="https://img.shields.io/badge/Tech-Power_BI-002147?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-SQL-0052CC?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-Excel_Avançado-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</div>
 ---
 
 ### 🏥 Atuação Profissional
-Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automação e visualização de dados para suporte à tomada de decisão estratégica em ambientes de alta criticidade.
+Atualmente à frente do **Command Center Hospitalar**, transformando dados em insights críticos para suporte à decisão estratégica.
 
-> **O Diferencial:** Unir a sensibilidade da **ciência da nutrição** com a precisão da **análise de dados** para gerar insights em contextos críticos de saúde.
+> **Diferencial:** Conectando a ciência da saúde (Nutrição) com a precisão da engenharia de dados.
 
 ---
 
