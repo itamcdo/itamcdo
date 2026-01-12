@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=170&lines=MARIA+ITA+MAC%C3%AADO;DATA+ANALYST+%26+BI;COMMAND+CENTER+HOSPITALAR" alt="Maria Ita Macêdo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=170&lines=MARIA+ITA+MAC%C3%AADO;DATA+ANALYST+%26+BI" alt="Maria Ita Macêdo" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/HEALTH-ANALYTICS-0052CC?style=for-the-badge&logo=google-health&logoColor=white" />
