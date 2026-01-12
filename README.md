@@ -26,16 +26,6 @@ Atualmente à frente do **Command Center Hospitalar**, transformando dados em in
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=002147&text=%20" width="100%"/>
-</p>
-
-**Analista de Dados & Business Intelligence** Power BI • SQL • Python • JavaScript • Node.js • React • Automação de Dados  
-
-Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automação e visualização de dados para **suporte à tomada de decisão estratégica** em ambientes de alta criticidade.  
-
 ---
 
 ## 🌐 Contato e Redes
