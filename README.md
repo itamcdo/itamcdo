@@ -9,6 +9,15 @@
 
 ---
 
+<div align="center">
+
+> **“A realidade é a matéria-prima da linguagem.”**  
+> <sub><em>Clarice Lispector — A Paixão Segundo G.H.</em></sub>
+
+</div>
+
+---
+
 ### 🏥 Sobre Mim
 Atualmente à frente do **Command Center Hospitalar**, foco na análise, automação e visualização de dados para suporte à decisão estratégica em ambientes de alta criticidade. 
 
@@ -61,10 +70,10 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 ---
 
 ### 🎓 Certificações em Destaque
-- **Coleta e Extração de Dados** | Power BI
-- **SQL para Análise de Dados** | Estratégico
-- **Python para Data Analytics** | Manipulação de Dados
-- **Google Apps Script** | Automação de Processos
+- **Coleta e Extração de Dados** | Power BI  
+- **SQL para Análise de Dados** | Estratégico  
+- **Python para Data Analytics** | Manipulação de Dados  
+- **Google Apps Script** | Automação de Processos  
 
 🔗 [Acesse meu portfólio completo de certificados](https://itamcdo.github.io/portfolio/certificates.html)
 
