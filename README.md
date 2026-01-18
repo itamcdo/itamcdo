@@ -75,7 +75,7 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 - **Python para Data Analytics** | Manipulação de Dados  
 - **Google Apps Script** | Automação de Processos  
 
-🔗 [Acesse meu portfólio completo de certificados](https://itamcdo.github.io/portfolio/certificates.html)
+🔗 [Acesse meu portfólio completo de certificados](https://itamacdo.github.io/portfolio/certificates.html)
 
 ---
 
@@ -88,7 +88,7 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
   <a href="mailto:itammacedo20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/itamcdo">
+  <a href="https://github.com/itamacdo">
     <img src="https://img.shields.io/badge/Follow-itamcdo-7B1FA2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
