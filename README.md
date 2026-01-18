@@ -89,7 +89,7 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/itamacdo">
-    <img src="https://img.shields.io/badge/Follow-itamcdo-7B1FA2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Follow-itamacdo-7B1FA2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
