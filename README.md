@@ -1,98 +1,84 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=170&lines=MARIA+ITA+MAC%C3%AADO;DATA+ANALYST+%26+BI" alt="Maria Ita Macêdo" />
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/HEALTH-ANALYTICS-0052CC?style=for-the-badge&logo=google-health&logoColor=white" />
-    <img src="https://img.shields.io/badge/NUTRIÇÃO-DATA_DRIVEN-002147?style=for-the-badge&logo=apple&logoColor=white" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=36&pause=1500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=150&lines=MARIA+ITA+MAC%C3%8ADO;DATA+ANALYST+%26+BI" />
 </div>
 
----
-
-<div align="center">
-
-> **“A realidade é a matéria-prima da linguagem.”**  
-> <sub><em>Clarice Lispector — A Paixão Segundo G.H.</em></sub>
-
-</div>
+<h2 align="center">Data Analyst • Business Intelligence • Health Analytics</h2>
 
 ---
 
-### 🏥 Sobre Mim
-Atualmente à frente do **Command Center Hospitalar**, foco na análise, automação e visualização de dados para suporte à decisão estratégica em ambientes de alta criticidade. 
+<h3 align="left">☕ Sobre Mim</h3>
 
-Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da saúde com o poder analítico dos dados para transformar contextos complexos em insights acionáveis.
+<img align="right" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
+<img align="right" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+
+👋 Oi! Eu sou a **Maria Ita**, analista de dados com atuação em **Health Analytics** e **Business Intelligence**.
+
+🏥 Atualmente estou à frente de um **Command Center Hospitalar**, trabalhando com análise, automação e visualização de dados para apoiar decisões estratégicas em ambientes de alta criticidade.
+
+🎓 Sou graduanda em **Nutrição**, o que me permite unir **conhecimento técnico da saúde** com **análise de dados**, traduzindo cenários complexos em **insights claros e acionáveis**.
+
+📊 Meu foco está em dados aplicados à gestão, performance operacional e apoio à tomada de decisão.
+
+☕📚 Entre um dashboard e outro, café, livros e um gato quase sempre fazem parte do processo.
 
 ---
 
-### 🛠️ Tech Stack & Especialidades
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
 
-<table align="center" width="100%">
+### 📊 Estatísticas
+
+<table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <strong>📊 Business Intelligence</strong><br>
-      • Power BI (DAX & ETL)<br>
-      • SQL Server / PostgreSQL<br>
-      • Python para Análise de Dados<br>
-      • Excel Avançado
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br"
+      />
     </td>
     <td width="50%" valign="top">
-      <strong>⚙️ Desenvolvimento & Automação</strong><br>
-      • Google Apps Script<br>
-      • JavaScript / Node.js<br>
-      • React.js<br>
-      • Automação de Workflows
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamacdo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+      />
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Power_BI-002147?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</div>
+### 🛠️ Linguagens & Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sql,postgres,powerbi,js,nodejs,react,git,github,excel&theme=dark" />
+  </a>
+</p>
 
 ---
 
-### 📊 Estatísticas e Atividade
+### 🎓 Certificações
+- Power BI — Coleta, Modelagem e DAX  
+- SQL para Análise de Dados  
+- Python para Data Analytics  
+- Google Apps Script — Automação  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamacdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&border_radius=10" />
-</div>
-
----
-
-### 🎓 Certificações em Destaque
-- **Coleta e Extração de Dados** | Power BI  
-- **SQL para Análise de Dados** | Estratégico  
-- **Python para Data Analytics** | Manipulação de Dados  
-- **Google Apps Script** | Automação de Processos  
-
-🔗 [Acesse meu portfólio completo de certificados](https://itamacdo.github.io/portfolio/certificates.html)
+🔗 [Portfólio completo de certificados](https://itamacdo.github.io/portfolio/certificates.html)
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 Fale comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/itamacdo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:itammacedo20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/itamacdo">
-    <img src="https://img.shields.io/badge/Follow-itamacdo-7B1FA2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Integrando Saúde e Tecnologia para decisões mais inteligentes. 🏥💻</sub>
+  <sub>Integrando saúde, dados e tecnologia para decisões mais inteligentes.</sub>
 </p>
