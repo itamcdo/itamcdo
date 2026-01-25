@@ -75,7 +75,7 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 - **Python para Data Analytics** | Manipulação de Dados  
 - **Google Apps Script** | Automação de Processos  
 
-🔗 [Acesse meu portfólio completo de certificados](https://itamacdo.github.io/portfolio/certificates.html)
+🔗 [Acesse meu portfólio completo de certificados](https://itamacdo-portfolio.vercel.app/certificates.html)
 
 ---
 
